@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ToDo/static/css/main.ba11b258.css",
+    "main.js": "/ToDo/static/js/main.47e9a7dc.js",
+    "static/media/empty-man.png": "/ToDo/static/media/empty-man.0ff84a18870d32a69d6e.png",
+    "static/media/light.svg": "/ToDo/static/media/light.76ccaac1c6f6fb5870946031127111e1.svg",
+    "index.html": "/ToDo/index.html",
+    "static/media/dark.svg": "/ToDo/static/media/dark.f225f342632ef666b349e325849163cc.svg",
+    "static/media/plus.svg": "/ToDo/static/media/plus.74b3f17ebe8fa63298a368c2e850ee30.svg",
+    "static/media/delete-hover.svg": "/ToDo/static/media/delete-hover.60d075d4d0d6ce8c1099.svg",
+    "static/media/delete.svg": "/ToDo/static/media/delete.82a46c210adb733860f0.svg",
+    "static/media/check.svg": "/ToDo/static/media/check.f5f72304fc3577b4d9f18c9ceb32860b.svg",
+    "static/media/search-icon.svg": "/ToDo/static/media/search-icon.fa3e596ea00fa53a6c51.svg",
+    "static/media/drop-down.svg": "/ToDo/static/media/drop-down.d9e68d89f8c6509a3bb6.svg",
+    "main.ba11b258.css.map": "/ToDo/static/css/main.ba11b258.css.map",
+    "main.47e9a7dc.js.map": "/ToDo/static/js/main.47e9a7dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba11b258.css",
+    "static/js/main.47e9a7dc.js"
+  ]
+}
