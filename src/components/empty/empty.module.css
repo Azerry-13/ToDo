@@ -1,0 +1,19 @@
+.image {
+  display: block;
+  margin: 35px auto 24px;
+}
+
+.text {
+  font-size: 20px;
+  font-weight: 500;
+  color: #252525;
+  text-align: center;
+}
+
+.light {
+  color: #f7f7f7;
+}
+
+.dark {
+  color: #252525;
+}

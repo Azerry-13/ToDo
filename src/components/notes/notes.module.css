@@ -1,0 +1,87 @@
+.notes_container {
+  max-width: 520px;
+  width: 100%;
+  margin: 30px auto 0;
+}
+
+.checkbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 26px;
+  height: 26px;
+  border: 1px solid #6c63ff;
+  background-color: transparent;
+  border-radius: 3px;
+  margin-right: 17px;
+}
+
+.checkbox > img {
+  width: 14px;
+  height: auto;
+  display: none;
+}
+
+.clicked {
+  background-color: #6c63ff;
+}
+
+.clicked > img {
+  display: block !important;
+}
+
+.delete {
+  background: url("../../images/delete.svg");
+  background-size: cover;
+  height: 19px;
+  width: 17px;
+  display: block;
+}
+
+.delete:hover {
+  background: url("../../images/delete-hover.svg");
+  background-size: cover;
+  height: 19px;
+  width: 17px;
+  display: block;
+}
+
+.note {
+  display: flex;
+  align-items: center;
+  padding: 17px 0;
+  border-bottom: 1px solid #b6b1ff;
+  cursor: pointer;
+}
+
+.note:hover {
+  border-bottom: 1px solid #6c63ff;
+}
+
+.controls {
+  display: flex;
+  column-gap: 5px;
+  margin-left: auto;
+}
+
+.noteText {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.textClicked {
+  text-decoration: line-through;
+  color: #929292;
+}
+
+.light {
+  color: #f7f7f7;
+}
+
+.dark {
+  color: #252525;
+}
+
+.hide {
+  display: none;
+}
